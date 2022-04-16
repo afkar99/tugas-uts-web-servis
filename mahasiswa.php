@@ -127,13 +127,13 @@
   
 
     
-  <meta name="go-import" content="github.com/ahyahms/UTS-WebService-11190447 git https://github.com/ahyahms/UTS-WebService-11190447.git">
+  <meta name="go-import" content="github.com/afkar/UTS-WebService-11190439 git https://github.com/afkar/UTS-WebService-11190439.git">
 
   <meta name="octolytics-dimension-user_id" content="74130541" /><meta name="octolytics-dimension-user_login" content="ahyahms" /><meta name="octolytics-dimension-repository_id" content="360418583" /><meta name="octolytics-dimension-repository_nwo" content="ahyahms/UTS-WebService-11190447" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="360418583" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ahyahms/UTS-WebService-11190447" />
 
 
 
-    <link rel="canonical" href="https://github.com/ahyahms/UTS-WebService-11190447/blob/main/server_api/mahasiswa.php" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/afkar/UTS-WebService-11190447/blob/main/server_api/mahasiswa.php" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
