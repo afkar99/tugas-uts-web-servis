@@ -58,8 +58,8 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>UTS-WebService-11190447/conn.php at main · ahyahms/UTS-WebService-11190447</title>
-    <meta name="description" content="ini adalah ujian tengah semester saya yaitu membuat rest api sederhana data mahsiswa - UTS-WebService-11190447/conn.php at main · ahyahms/UTS-WebService-11190447">
+  <title>UTS-WebService-11190439/conn.php at main · afkar/UTS-WebService-11190439</title>
+    <meta name="description" content="ini adalah ujian tengah semester saya yaitu membuat rest api sederhana data mahsiswa - UTS-WebService-11190439/conn.php at main · ahyahms/UTS-WebService-11190447">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -127,9 +127,9 @@
   
 
     
-  <meta name="go-import" content="github.com/ahyahms/UTS-WebService-11190447 git https://github.com/ahyahms/UTS-WebService-11190447.git">
+  <meta name="go-import" content="github.com/afkar/UTS-WebService-11190439 git https://github.com/afkar/UTS-WebService-11190439.git">
 
-  <meta name="octolytics-dimension-user_id" content="74130541" /><meta name="octolytics-dimension-user_login" content="ahyahms" /><meta name="octolytics-dimension-repository_id" content="360418583" /><meta name="octolytics-dimension-repository_nwo" content="ahyahms/UTS-WebService-11190447" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="360418583" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ahyahms/UTS-WebService-11190447" />
+  <meta name="octolytics-dimension-user_id" content="74130541" /><meta name="octolytics-dimension-user_login" content="afkar" /><meta name="octolytics-dimension-repository_id" content="360418583" /><meta name="octolytics-dimension-repository_nwo" content="ahyahms/UTS-WebService-11190447" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="360418583" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ahyahms/UTS-WebService-11190447" />
 
 
 
